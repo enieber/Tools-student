@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main ()
+{
+    rw:    
+    printf (" \|");
+    system ("cls");
+    printf (" \/");
+    system ("cls");
+    printf (" -");
+    system ("cls");
+    printf (" \\");
+    system ("cls");
+    printf (" \|");
+    system ("cls");
+    printf (" \/");
+    system ("cls");
+    printf (" -");
+    system ("cls");
+    printf (" \\");
+    system ("cls");
+    goto rw;
+}
