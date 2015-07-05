@@ -4,4 +4,4 @@
 
 * [Enieber Cunha](https://github.com/enieber)
 * [Marcus Vinicius](https://www.facebook.com/marcus.meneseses)
-* Edslaine Osorio
+* Edislayne Osorio
